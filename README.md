@@ -6,6 +6,7 @@
 
 * A faire:
   * remplir de carré de couleur le canvas, ces carrés correspondent à chaque case de la map
+    * Pour cela : http://www.w3schools.com/tags/canvas_fillrect.asp
   * Ajouter un carré d'une autre couleur à la map à un endroit spécifique x, y
     * Pour cela, créer un objet  "point" : http://www.w3schools.com/js/js_objects.asp
   * Récupérer les touches appuyées et les afficher avec un "console.log"
