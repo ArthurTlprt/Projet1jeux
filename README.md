@@ -13,4 +13,4 @@
   * Faire bouger le point grace au clavier
 
 
-## N'hésite pas à chercher sur internet si tu as des problemes, toutes tes questions sont sur internet, si tu ne trouves alors viens me voir!
+## N'hésite pas à chercher sur internet si tu as des problemes, toutes tes questions sont sur internet, si tu ne trouves pas alors viens me voir!
